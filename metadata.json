@@ -1,0 +1,7 @@
+{
+  "name": "CampusPulse - Smart Notice Board Summarizer",
+  "description": "Scans campus notice boards and official circulars to generate structured, student-friendly bulleted digests, deadline trackers, and urgency-categorized updates.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
