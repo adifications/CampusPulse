@@ -1,7 +1,7 @@
 # CampusPulse 
 ### Smart Campus Notice Board Summarizer & University Circular Assistant
 
-> **CampusPulse** turns messy, cluttered campus corkboards and formal university circulars into clear, actionable, student-friendly digests with automated deadline tracking and departmental filtering.
+> **CampusPulse** turns messy, cluttered campus corkboards and formal university circulars into clear, actionable, student-friendly digests with automated deadline tracking and departmental filtering
 
 ---
 
